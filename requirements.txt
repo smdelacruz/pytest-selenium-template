@@ -1,0 +1,7 @@
+requests
+pytest
+selenium
+urllib3
+allure-pytest
+allure-python-commons
+parameterized
